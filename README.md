@@ -16,6 +16,8 @@
 * This solution allows you to integrate Amazon Rekognition face liveness with your existing Angular Application. It uses the  FaceLivenessDetector component from React and wraps it as an Angular Component. 
 * FaceLivenessDetector component is responsible from starting the liveness session. Once the results are ready it notifies us via callback functions. 
 
+To run the project, we need to have [Node js 16](https://www.stewright.me/2022/01/tutorial-install-nodejs-16-on-ubuntu-20-04/) and [angular cli](https://angular.io/cli) installed. 
+
 #### Steps to run using AWS Amplify
 1. [Install Amplify CLI on your local machine](https://docs.amplify.aws/cli/start/install/#pre-requisites-for-installation)
 ```
